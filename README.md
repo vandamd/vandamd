@@ -1,7 +1,7 @@
 hi, i'm vandam!! i like programming and climbing!!!!
 
 ive been making apps for the light phone 3 for fun:
-- [luma](https://github.com/vandamd/Luma): a launcher for these (and lightos) tools
+- [luma](https://github.com/vandamd/Luma): a launcher for these tools
 - [reverb](https://github.com/vandamd/reverb): to play my high quality local music files
 - [echo](https://github.com/vandamd/echo): to play my spotify playlists
 - [weather](https://github.com/vandamd/weather): to check i need an umbrella
