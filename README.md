@@ -8,3 +8,4 @@ ive been making apps for the light phone 3 for fun:
 - [passes](https://github.com/vandamd/passes): to store my climbing gym pass and movie tickets
 - [zero](https://github.com/vandamd/zero): to take photos with minimal processing
 - [buses](https://github.com/vandamd/buses): to track my buses
+- [nts radio](https://github.com/vandamd/nts-radio): to listen to infinite mixes
